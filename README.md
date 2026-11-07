@@ -1,6 +1,13 @@
-# Teapot Router
+<div align="center">
+  <img src="assets/teapot-mark.svg" width="96" alt="Teapot Router — a clay seal with a forest-green teapot" />
+</div>
 
-**Stability-first AI gateway for Claude Code and GPT — 快，到处都有。稳，很少见。**
+<h3 align="center">Teapot Router</h3>
+
+<p align="center"><strong>Stability-first AI gateway for Claude Code and GPT.</strong><br/>
+<sub>快，到处都有。稳，很少见。</sub></p>
+
+---
 
 One key, both protocols: Claude Code connects via `ANTHROPIC_BASE_URL` + `ANTHROPIC_AUTH_TOKEN`, OpenAI SDK / Codex via `base_url /v1`. Pay-as-you-go, public pricing, automatic upstream failover, per-request cost ledger.
 
